@@ -1,0 +1,51 @@
+#pane{
+    -fx-background-image: url("../HojasP/FondoChido.gif");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 1000 606;
+    -fx-background-position: center center;
+    -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0);
+}
+
+#Juego{
+    -fx-background-image: url("../HojasP/Fondo2.png");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 1000 606;
+    -fx-background-position: center center;
+    -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0);
+}
+
+.button-yellow
+{
+    -fx-background-color: #e8d33f;
+    -fx-text-fill: #000000;
+    -fx-background-radius: 8;
+    -fx-font-weight: bold;
+    -fx-font-family: "Super Mario 256";
+}
+
+.button-blue
+{
+    -fx-background-color: #40bcd8;
+    -fx-text-fill: #000000;
+    -fx-background-radius: 8;
+    -fx-font-weight: bold;
+    -fx-font-family: "Super Mario 256";
+}
+
+.button-red
+{
+    -fx-background-color: #a22c29;
+    -fx-text-fill: #000000;
+    -fx-background-radius: 8;
+    -fx-font-weight: bold;
+    -fx-font-family: "Super Mario 256";
+}
+
+.button-green
+{
+    -fx-background-color: #339933;
+    -fx-text-fill: #000000;
+    -fx-background-radius: 8;
+    -fx-font-weight: bold;
+    -fx-font-family: "Super Mario 256";
+}
